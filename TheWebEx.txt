@@ -1,0 +1,43 @@
+Part 1
+
+1) What is http? 
+
+Hypertext Transfer Protocol is how browsers and servers communicate
+
+2) What is a url?
+
+Universal Resource Locator is an address for internet resource
+
+3) What is DNS?
+
+Domain Name System corresponds host name with ip address
+
+4) What is a query string?
+
+provides "extra information" search terms, information from froms, etc
+
+5) What are two http verbs and how are they different?
+
+Get gets data while Post sends data
+
+6) What is a HTTP request? 
+
+Request from a client to a server
+
+7) What is a HTTP response?
+
+Response from a server to a client
+
+8) What is a HTTP header? give a couple examples of request and response headers you have seen
+
+Provides info about request and response header.
+Request: host, cookies, language
+Response: content type, cookies, caching info
+
+9) What are processes that happen when you type "http://somesite.com/some/page.html" into a browsers?
+
+- Turn hostname to ip address
+- Connects to ip address
+- Server send response
+- Browser makes DOM from html
+- Browser makes HTTP requests and get HTTP responses
